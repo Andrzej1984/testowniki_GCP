@@ -1,6 +1,7 @@
-X0001
-What cloud deployment model is generally deployed between organizations such as non-profits, hospitals or even enterprises that share similar requirements or interests?(select one)
-A. Hybrid
-B. Private
-C. Public
-D Community
+X11100
+Which of the following are the current options for paid support in GCP? (Select Three)
+Standard
+Enhanced
+Premium
+Role
+Premier

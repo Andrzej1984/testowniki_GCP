@@ -1,0 +1,6 @@
+X0100
+Your company has signed up with a cloud provider and you will be using storage and virtual machines with the provider. The provider has provided your organization some expectations for what the service should perform at. What type of agreement provides a guarantee of a certain level of service such as “Uptime”?  (Select One)    
+Interconnection Agreement
+Service Level Agreement
+Warranty
+Performance Agreement

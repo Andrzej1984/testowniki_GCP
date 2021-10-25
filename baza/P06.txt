@@ -1,0 +1,7 @@
+X11001
+Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three)
+Sustained-Use
+Committed-Use
+Spot Instances
+Military Discounts
+Preemptible VMs

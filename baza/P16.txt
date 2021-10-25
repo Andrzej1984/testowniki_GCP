@@ -1,0 +1,6 @@
+X1100
+App Engine has been deployed in your customers GCP cloud deployment.  The customer would like to know more about the benefits of App Engine Flexible.  Please advise them on the benefits of App Engine Flexible (Select Two) 
+Supports autoscaling
+Supports Docker containers
+Supports mainframe connectivity
+Source code is written in specific versions of the supported programming languages only

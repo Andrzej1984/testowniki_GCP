@@ -8,4 +8,7 @@ W pierwszej linni pliku umieszczamy informację o dobrych odpowiedziach np X0011
 W kolejnej linni znajduje się treść pytania
 W liniach 3+ znajdują się możliwe odpowiedzi
 
+#zawartośc
+
+1) P01 do P16 pytania z https://thegcpgurus.com/google-cloud-digital-leader-sample-questions/
 

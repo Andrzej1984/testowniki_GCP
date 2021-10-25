@@ -1,0 +1,7 @@
+X11001
+Cloud Data Loss Prevention (DLP) is a fully managed service designed to help discover, classify, and protect the most sensitive data. DLP provides three key features  (Select Three) 
+Classification
+De-identification
+De-classification
+Reinspection
+Inspection

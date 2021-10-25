@@ -1,0 +1,7 @@
+X0010
+Compute Engine provides machine type recommendations to help you optimize the resource utilization of your virtual machine (VM) instances. What is this capability called? (Select One) 
+Recommendation Engine
+Best Practice Wizard
+Rightsizing Recommendations
+App 
+None of the above

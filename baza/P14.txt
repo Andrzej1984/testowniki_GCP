@@ -1,0 +1,6 @@
+X0010
+When creating a project in Google Cloud it is important to understand quotas limits of a project. By default you can create up to _______ networks per project. (Select One) 
+1
+2
+5
+10

@@ -1,0 +1,8 @@
+X110011
+Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three)
+Enable Services and APIs
+Track Resource Usage
+Manage Container Deployments
+Manage DNS Services
+Enable Billing
+Manage Permissions and Credentials

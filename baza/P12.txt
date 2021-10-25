@@ -1,0 +1,6 @@
+X1000
+A customer has contacted you about migrating to Google Cloud. The customer would like to migrate their data from on premises as soon as possible.  They don’t have the budget to rewrite code, and they want the most direct route. What migration option should suggest to the customer?  (Select One) 
+Lift and Shift
+Improve and Move
+Rip and Replace
+None, since the customer is not cloud native ready.

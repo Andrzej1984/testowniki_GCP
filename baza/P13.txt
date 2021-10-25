@@ -1,0 +1,6 @@
+X0010
+What load balancer type is supported with Cloud Armor security policies?  (Select One) 
+Regional SSL
+HTTP(S) Only
+HTTP(S) and SSL
+SSL Proxy, HTTP(S) and SSL

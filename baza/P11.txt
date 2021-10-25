@@ -1,0 +1,6 @@
+X0001
+Which of the following NIST Cloud characteristics uses the business model of shared resources in a cloud environment?  (Select One)
+Broad Network Access
+Elasticity
+Availability
+Multi-Tenancy

@@ -1,0 +1,6 @@
+X0010
+What cloud service model would you want to select if you want to solve a particular business problem by providing CRM services in the cloud  to your enterprises? (Select One)  
+PaaS
+IaaS
+SaaS
+CaaS

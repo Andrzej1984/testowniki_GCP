@@ -1,0 +1,8 @@
+X101010
+Which of the following statements describe the features of a preemptible VM instance?
+Instance is alive for no more than 24 hours
+Instance is alive for no more than 12 hours
+Discounted Significantly
+Can use free tier credits
+Can be pre-empted with a 30 second notice
+Can be pre-empted with a 30 minute notice
