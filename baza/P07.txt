@@ -1,5 +1,5 @@
 X110011
-Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three)
+All Google Cloud Platform services are associated with a project that is used to provide what functions? (Select Four)
 Enable Services and APIs
 Track Resource Usage
 Manage Container Deployments
