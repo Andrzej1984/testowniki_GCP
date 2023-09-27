@@ -1,0 +1,6 @@
+X0001
+Your company uses a proprietary system to send inventory data every 6 hours to a data ingestion service in the cloud. Transmitted data includes a payload of several fields and the timestamp of the transmission. If there are any concerns about a transmission, the system re-transmits the data. How should you deduplicate the data most efficiency?
+Assign global unique identifiers (GUID) to each data entry.
+Compute the hash value of each data entry, and compare it with all historical data.
+Store each data entry as the primary key in a separate database and apply an index.
+Maintain a database table to store the hash value and other metadata for each data entry.

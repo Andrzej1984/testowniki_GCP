@@ -1,7 +1,8 @@
-X10000
-What service is a fully managed real-time messaging service that allows you to send and receive messages between independent applications.  (Select One) 
-Cloud Pub-Sub
-Cloud BigTable
-Cloud Spanner
-Cloud DNS
-Cloud Datastore
+X011100
+Business owners at your company have given you a database of bank transactions. Each row contains the user ID, transaction type, transaction location, and transaction amount. They ask you to investigate what type of machine learning can be applied to the data. Which three machine learning applications can you use? (Choose three.)
+Supervised learning to determine which transactions are most likely to be fraudulent.
+Unsupervised learning to determine which transactions are most likely to be fraudulent.
+Clustering to divide the transactions into N categories based on feature similarity.
+Supervised learning to predict the location of a transaction.
+Reinforcement learning to predict the location of a transaction.
+Unsupervised learning to predict the location of a transaction.

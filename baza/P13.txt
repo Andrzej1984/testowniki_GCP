@@ -1,6 +1,7 @@
-X0100
-What load balancer type is supported with Cloud Armor security policies?  (Select One) 
-Regional SSL
-HTTP(S) Only
-HTTP(S) and SSL
-SSL Proxy, HTTP(S) and SSL
+X0001
+You want to process payment transactions in a point-of-sale application that will run on Google Cloud Platform. Your user base could grow exponentially, but you do not want to manage infrastructure scaling.
+Which Google database service should you use?
+Cloud SQL
+BigQuery
+Cloud Bigtable
+Cloud Datastore

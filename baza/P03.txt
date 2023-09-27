@@ -1,6 +1,6 @@
 X0010
-A customer deploys an application to App Engine and needs to check for Open Web Application Security Project (OWASP) vulnerabilities. Which service should be used to accomplish this? (Select One) 
-Cloud Armor
-Binary Authorization
-Cloud Security Scanner
-Forseti Security
+You designed a database for patient records as a pilot project to cover a few hundred patients in three clinics. Your design used a single database table to represent all patients and their visits, and you used self-joins to generate reports. The server resource utilization was at 50%. Since then, the scope of the project has expanded. The database must now store 100 times more patient records. You can no longer run the reports, because they either take too long or they encounter errorsCloud Armor with insufficient compute resources. How should you adjust the database design?
+Add capacity (memory and disk space) to the database server by the order of 200.
+Shard the tables into smaller ones based on date ranges, and only generate reports with prespecified date ranges.
+Normalize the master patient-record table into the patient table and the visits table, and create other necessary tables to avoid self-join.
+Partition the table into smaller tables, with one for each clinic. Run queries against the smaller table pairs, and use unions for consolidated reports.

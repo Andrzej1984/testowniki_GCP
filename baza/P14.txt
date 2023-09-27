@@ -1,6 +1,7 @@
-X0010
-When creating a project in Google Cloud it is important to understand quotas limits of a project. By default you can create up to _______ networks per project. (Select One) 
-1
-2
-5
-10
+X1010
+You want to use a database of information about tissue samples to classify future tissue samples as either normal or mutated. You are evaluating an unsupervised anomaly detection method for classifying the tissue samples. Which two characteristic support this method? (Choose two.)
+There are very few occurrences of mutations relative to normal samples.
+There are roughly equal occurrences of both normal and mutated samples in the database.
+You expect future mutations to have different features from the mutated samples in the database.
+You expect future mutations to have similar features to the mutated samples in the database.
+You already have labels for which samples are mutated and which are normal in the database.

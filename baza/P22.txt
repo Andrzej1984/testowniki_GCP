@@ -1,0 +1,6 @@
+X0001
+Your company has hired a new data scientist who wants to perform complicated analyses across very large datasets stored in Google Cloud Storage and in a Cassandra cluster on Google Compute Engine. The scientist primarily wants to create labelled data sets for machine learning projects, along with some visualization tasks. She reports that her laptop is not powerful enough to perform her tasks and it is slowing her down. You want to help her perform her tasks. What should you do?
+Run a local version of Jupiter on the laptop.
+Grant the user access to Google Cloud Shell.
+Host a visualization tool on a VM on Google Compute Engine.
+Deploy Google Cloud Datalab to a virtual machine (VM) on Google Compute Engine.

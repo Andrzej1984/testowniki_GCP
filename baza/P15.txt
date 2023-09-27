@@ -1,7 +1,6 @@
-X0010
-Compute Engine provides machine type recommendations to help you optimize the resource utilization of your virtual machine (VM) instances. What is this capability called? (Select One) 
-Recommendation Engine
-Best Practice Wizard
-Rightsizing Recommendations
-App 
-None of the above
+X0001
+You need to store and analyze social media postings in Google BigQuery at a rate of 10,000 messages per minute in near real-time. Initially, design the application to use streaming inserts for individual postings. Your application also performs data aggregations right after the streaming inserts. You discover that the queries after streaming inserts do not exhibit strong consistency, and reports from the queries might miss in-flight data. How can you adjust your application design?
+Re-write the application to load accumulated data every 2 minutes.
+Convert the streaming insert code to batch load for individual messages.
+Load the original message to Google Cloud SQL, and export the table every hour to BigQuery via streaming inserts.
+Estimate the average latency for data availability after streaming inserts, and always run queries after waiting twice as long.

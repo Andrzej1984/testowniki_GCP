@@ -1,0 +1,6 @@
+X0001
+You want to use Google Stackdriver Logging to monitor Google BigQuery usage. You need an instant notification to be sent to your monitoring tool when new data is appended to a certain table using an insert job, but you do not want to receive notifications for other tables. What should you do?
+Make a call to the Stackdriver API to list all logs, and apply an advanced filter.
+In the Stackdriver logging admin interface, and enable a log sink export to BigQuery.
+In the Stackdriver logging admin interface, enable a log sink export to Google Cloud Pub/Sub, and subscribe to the topic from your monitoring tool.
+Using the Stackdriver API, create a project sink with advanced log filter to export to Pub/Sub, and subscribe to the topic from your monitoring tool.m now on. In the future, new data is loaded into the table NEW_CLICK_STREAM.

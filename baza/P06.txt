@@ -1,7 +1,6 @@
-X11001
-Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three)
-Sustained-Use
-Committed-Use
-Spot Instances
-Military Discounts
-Preemptible VMs
+X0100
+Your weather app queries a database every 15 minutes to get the current temperature. The frontend is powered by Google App Engine and server millions of users. How should you design the frontend to respond to a database failure?
+Issue a command to restart the database servers.
+Retry the query with exponential backoff, up to a cap of 15 minutes.
+Retry the query every second until it comes back online to minimize staleness of data.
+Reduce the query frequency to once every hour until the database comes back online.

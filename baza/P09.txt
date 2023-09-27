@@ -1,6 +1,6 @@
-X0010
-What cloud service model would you want to select if you want to solve a particular business problem by providing CRM services in the cloud  to your enterprises? (Select One)  
-PaaS
-IaaS
-SaaS
-CaaS
+X0001
+Your company is using WILDCARD tables to query data across multiple tables with similar names. The SQL statement is currently failing with the following error:  !!!!<IMAGE WITH bigquery-public-data.noaa_gsod.gsod>!!!!   Which table name will make the SQL statement work correctly?
+'bigquery-public-data.noaa_gsod.gsod'
+bigquery-public-data.noaa_gsod.gsod*
+'bigquery-public-data.noaa_gsod.gsod'*
+'bigquery-public-data.noaa_gsod.gsod*`

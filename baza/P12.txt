@@ -1,6 +1,8 @@
-X1000
-A customer has contacted you about migrating to Google Cloud. The customer would like to migrate their data from on premises as soon as possible.  They dont have the budget to rewrite code, and they want the most direct route. What migration option should suggest to the customer?  (Select One) 
-Lift and Shift
-Improve and Move
-Rip and Replace
-None, since the customer is not cloud native ready.
+X010101
+Your company handles data processing for a number of different clients. Each client prefers to use their own suite of analytics tools, with some allowing direct query access via Google BigQuery. You need to secure the data so that clients cannot see each other's data. You want to ensure appropriate access to the data. Which three steps should you take? (Choose three.)
+Load data into different partitions.
+Load data into a different dataset for each client.
+Put each client's BigQuery dataset into a different table.
+Restrict a client's dataset to approved users.
+Only allow a service account to access the datasets.
+Use the appropriate identity and access management (IAM) roles for each client's users.

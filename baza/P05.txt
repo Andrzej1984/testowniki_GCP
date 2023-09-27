@@ -1,8 +1,6 @@
-X101010
-Which of the following statements describe the features of a preemptible VM instance?(Select Three)
-Instance is alive for no more than 24 hours
-Instance is alive for no more than 12 hours
-Discounted Significantly
-Can use free tier credits
-Can be pre-empted with a 30 second notice
-Can be pre-empted with a 30 minute notice
+X0001
+An external customer provides you with a daily dump of data from their database. The data flows into Google Cloud Storage GCS as comma-separated values(CSV) files. You want to analyze this data in Google BigQuery, but the data could have rows that are formatted incorrectly or corrupted. How should you build this pipeline?
+Use federated data sources, and check data in the SQL query.
+Enable BigQuery monitoring in Google Stackdriver and create an alert.
+Import the data into BigQuery using the gcloud CLI and set max_bad_records to 0.
+Run a Google Cloud Dataflow batch pipeline to import the data into BigQuery, and push errors to another dead-letter table for analysis.

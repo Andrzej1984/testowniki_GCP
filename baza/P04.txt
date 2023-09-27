@@ -1,7 +1,6 @@
-X01110
-GCP provides three main compliance resource webpages. What are they? (Select Three)
-Support Hub
-Compliance Reports Manager
-GDPR Home Page
-Compliance Offerings
-TechCentral
+X1000
+You create an important report for your large team in Google Data Studio 360. The report uses Google BigQuery as its data source. You notice that visualizations are not showing data that is less than 1 hour old. What should you do?
+Disable caching by editing the report settings.
+Disable caching in BigQuery by editing table details.
+Refresh your browser tab showing the visualizations.
+Clear your browser history for the past hour then reload the tab showing the virtualizations.

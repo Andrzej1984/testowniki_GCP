@@ -1,8 +1,6 @@
-X110011
-All Google Cloud Platform services are associated with a project that is used to provide what functions? (Select Four)
-Enable Services and APIs
-Track Resource Usage
-Manage Container Deployments
-Manage DNS Services
-Enable Billing
-Manage Permissions and Credentials
+X1000
+You are creating a model to predict housing prices. Due to budget constraints, you must run it on a single resource-constrained virtual machine. Which learning algorithm should you use?
+Linear regression
+Logistic classification
+Recurrent neural network
+Feedforward neural network

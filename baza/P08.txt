@@ -1,6 +1,6 @@
 X0001
-What cloud deployment model is generally deployed between organizations such as non-profits, hospitals or even enterprises that share similar requirements or interests?(select one)
-Hybrid
-Private
-Public
-Community
+You are building new real-time data warehouse for your company and will use Google BigQuery streaming inserts. There is no guarantee that data will only be sent in once but you do have a unique ID for each row of data and an event timestamp. You want to ensure that duplicates are not included while interactively querying data. Which query type should you use?
+Include ORDER BY DESK on timestamp column and LIMIT to 1.
+Use GROUP BY on the unique ID column and timestamp column and SUM on the values.
+Use the LAG window function with PARTITION by unique ID along with WHERE LAG IS NOT NULL.
+Use the ROW_NUMBER window function with PARTITION by unique ID along with WHERE row equals 1.

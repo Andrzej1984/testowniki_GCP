@@ -1,6 +1,6 @@
-X1100
-App Engine has been deployed in your customers GCP cloud deployment.  The customer would like to know more about the benefits of App Engine Flexible.  Please advise them on the benefits of App Engine Flexible (Select Two) 
-Supports autoscaling
-Supports Docker containers
-Supports mainframe connectivity
-Source code is written in specific versions of the supported programming languages only
+X1000
+Your startup has never implemented a formal security policy. Currently, everyone in the company has access to the datasets stored in Google BigQuery. Teams have freedom to use the service as they see fit, and they have not documented their use cases. You have been asked to secure the data warehouse. You need to discover what everyone is doing. What should you do first?
+Use Google Stackdriver Audit Logs to review data access.
+Get the identity and access management IIAM) policy of each table
+Use Stackdriver Monitoring to see the usage of BigQuery query slots.
+Use the Google Cloud Billing API to see what account the warehouse is being billed to.
