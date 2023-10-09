@@ -1,0 +1,6 @@
+X0100 
+An online retailer has built their current application on Google App Engine. A new initiative at the company mandates that they extend their application to allow their customers to transact directly via the application. They need to manage their shopping transactions and analyze combined data from multiple datasets using a business intelligence (BI) tool. They want to use only a single database for this purpose. Which Google Cloud database should they choose?
+A. BigQuery
+B. Cloud SQL
+C. Cloud BigTable
+D. Cloud Datastore

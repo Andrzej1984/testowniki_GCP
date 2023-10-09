@@ -1,0 +1,6 @@
+X0100
+Your company has recently grown rapidly and now ingesting data at a significantly higher rate than it was previously. You manage the daily batch MapReduce analytics jobs in Apache Hadoop. However, the recent increase in data has meant the batch jobs are falling behind. You were asked to recommend ways the development team could increase the responsiveness of the analytics without increasing costs. What should you recommend they do?
+Rewrite the job in Pig.
+Rewrite the job in Apache Spark.
+Increase the size of the Hadoop cluster.
+Decrease the size of the Hadoop cluster but also rewrite the job in Hive.

@@ -1,0 +1,6 @@
+X0001 
+You are using Google BigQuery as your data warehouse. Your users report that the following simple query is running very slowly, no matter when they run the query:. SELECT country, state, city FROM [myproject:mydataset.mytable] GROUP BY country. You check the query plan for the query and see the following output in the Read section of Stage:1:. What is the most likely cause of the delay for this query?
+A. Users are running too many concurrent queries in the system
+B. The [myproject:mydataset.mytable] table has too many partitions
+C. Either the state or the city columns in the [myproject:mydataset.mytable] table have too many NULL values
+D. Most rows in the [myproject:mydataset.mytable] table have the same value in the country column, causing data skew

@@ -1,0 +1,6 @@
+X0001 
+Your company is currently setting up data pipelines for their campaign. For all the Google Cloud Pub/Sub streaming data, one of the important business requirements is to be able to periodically identify the inputs and their timings during their campaign. Engineers have decided to use windowing and transformation in Google Cloud Dataflow for this purpose. However, when testing this feature, they find that the Cloud Dataflow job fails for the all streaming insert. What is the most likely cause of this problem?
+A. They have not assigned the timestamp, which causes the job to fail
+B. They have not set the triggers to accommodate the data coming in late, which causes the job to fail
+C. They have not applied a global windowing function, which causes the job to fail when the pipeline is created
+D. They have not applied a non-global windowing function, which causes the job to fail when the pipeline is created

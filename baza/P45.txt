@@ -1,0 +1,7 @@
+X0010
+You work for a manufacturing plant that batches application log files together into a single log file once a day at 2:00 AM. You have written a Google Cloud
+Dataflow job to process that log file. You need to make sure the log file in processed once per day as inexpensively as possible. What should you do?
+Change the processing job to use Google Cloud Dataproc instead.
+Manually start the Cloud Dataflow job each morning when you get into the office.
+Create a cron job with Google App Engine Cron Service to run the Cloud Dataflow job.
+Configure the Cloud Dataflow job as a streaming job so that it processes the log data immediately.

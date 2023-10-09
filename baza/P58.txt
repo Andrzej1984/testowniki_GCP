@@ -1,0 +1,6 @@
+X0100 
+You architect a system to analyze seismic data. Your extract, transform, and load (ETL) process runs as a series of MapReduce jobs on an Apache Hadoop cluster. The ETL process takes days to process a data set because some steps are computationally expensive. Then you discover that a sensor calibration step has been omitted. How should you change your ETL process to carry out sensor calibration systematically in the future?
+A. Modify the transformMapReduce jobs to apply sensor calibration before they do anything else.
+B. Introduce a new MapReduce job to apply sensor calibration to raw data, and ensure all other MapReduce jobs are chained after this.
+C. Add sensor calibration data to the output of the ETL process, and document that all users need to apply sensor calibration themselves.
+D. Develop an algorithm through simulation to predict variance of data output from the last MapReduce job based on calibration factors, and apply the correction to all data.

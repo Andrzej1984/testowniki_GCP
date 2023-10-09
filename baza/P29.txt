@@ -1,0 +1,6 @@
+X0001
+Your company is streaming real-time sensor data from their factory floor into Bigtable and they have noticed extremely poor performance. How should the row key be redesigned to improve Bigtable performance on queries that populate real-time dashboards?
+Use a row key of the form <timestamp>.
+Use a row key of the form <sensorid>.
+Use a row key of the form <timestamp>#<sensorid>.
+Use a row key of the form >#<sensorid>#<timestamp>.

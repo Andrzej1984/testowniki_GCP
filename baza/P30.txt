@@ -1,0 +1,6 @@
+X0100
+???Your company's customer and order databases are often under heavy load. This makes performing analytics against them difficult without harming operations. The databases are in a MySQL cluster, with nightly backups taken using mysqldump. You want to perform analytics with minimal impact on operations. What should you do?
+A. Add a node to the MySQL cluster and build an OLAP cube there.
+B. Use an ETL tool to load the data from MySQL into Google BigQuery.
+C. Connect an on-premises Apache Hadoop cluster to MySQL and perform ETL.
+D. Mount the backups to Google Cloud SQL, and then process the data using Google Cloud Dataproc.

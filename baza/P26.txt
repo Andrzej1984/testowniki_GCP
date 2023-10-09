@@ -1,0 +1,6 @@
+X0001
+You are working on a sensitive project involving private user data. You have set up a project on Google Cloud Platform to house your work internally. An external consultant is going to assist with coding a complex transformation in a Google Cloud Dataflow pipeline for your project. How should you maintain users' privacy?
+Grant the consultant the Viewer role on the project.
+Grant the consultant the Cloud Dataflow Developer role on the project.
+Create a service account and allow the consultant to log on with it.
+Create an anonymized sample of the data for the consultant to work with in a different project.

@@ -1,0 +1,6 @@
+X0100
+Your company is performing data preprocessing for a learning algorithm in Google Cloud Dataflow. Numerous data logs are being are being generated during this step, and the team wants to analyze them. Due to the dynamic nature of the campaign, the data is growing exponentially every hour. The data scientists have written the following code to read the data for a new key features in the logs. !!!< BigQueryIO.Read .named("ReadLogData") .from("clouddataflow-readonly:samples.log_data")>!!!You want to improve the performance of this data read. What should you do?
+Specify the TableReference object in the code.
+Use .fromQuery operation to read specific fields from the table.
+Use of both the Google BigQuery TableSchema and TableFieldSchema classes.
+Call a transform that returns TableRow objects, where each element in the PCollection represents a single row in the table.
